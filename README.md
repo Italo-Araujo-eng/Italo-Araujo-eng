@@ -7,7 +7,7 @@
 Me chamo Italo Araújo, sou profissional de TI com 14 anos de experiência consolidada em desenvolvimento Full-stack e Front-end. Minha jornada começou com a formação técnica pelo Senai Brasília e, atualmente, estou expandindo meus horizontes cursando Engenharia da Computação pelo Instituto Infnet. Sou apaixonado por arquitetura Cloud e segurança, focando meu trabalho em esteiras DevOps e DevSecOps para garantir entregas ágeis e seguras.
 
 <p align="left">
-    <a href="[https://www.linkedin.com/in/italo-alves-araujo-1182a4248](https://www.linkedin.com/in/italo-alves-araújo-1182a4248/">
+    <a href="https://www.linkedin.com/in/italo-alves-araujo-1182a4248](https://www.linkedin.com/in/italo-alves-araújo-1182a4248/">
         <img 
             alt="LinkedIn" 
             src="https://custom-icon-badges.demolab.com/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=006699"
