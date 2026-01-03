@@ -48,15 +48,4 @@ Me chamo Italo Araújo, sou profissional de TI com 14 anos de experiência conso
 
 ---
 
-### 📊 Estatísticas
 
-<p align="left">
-  <img 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api?username=Italo-Araujo-eng&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  <img 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Italo-Araujo-eng&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
